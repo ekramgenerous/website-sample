@@ -103,7 +103,17 @@
   padding: 30px;
   color:white;
 }
-.imgsection-5 {
+.small-image{
+ border-radius: 50%;
+ top:10px;
+ box-shadow: 1px 1px white 2px;
+}
+
+.img-background {
+  background: #B9AA8Eff;
+}
+
+/* .imgsection-5 {
   background-image: url("/imgs/makkah.jpg");
   width: 100%;
   height: 20rem;
@@ -111,8 +121,8 @@
   background-repeat: no-repeat;
   background-size: cover;
   padding: auto;
- }
- .section-5 {
+ } */
+ /* .section-5 {
   text-align: center;
   background-color: #B9AA8Eff;
   width: 100%;
@@ -122,7 +132,7 @@
   padding: 30px;
   color:white;
  
- }
+ }  */
 .section-2 h2,.section-3 h3, .section-4 h4,.section-5 h5 {
   font-size:40px;
 }
